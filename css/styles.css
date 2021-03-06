@@ -31,7 +31,7 @@ p
 }
 .container-fluid1
 {
-    padding:3% 15% 1%;
+    padding:3% 15% 4%;
 }
 
 .content-colour
@@ -71,14 +71,16 @@ padding:0 0 4.5rem;
 
 .download-button
 {
-    margin: 8% 6% 6% 0;
+    margin: 8% 6% 6% ;
 }
 .title-image
 {
-    width: 55% !important;
+    /* width: 55% ; */
+    height: 85%;
     transform: rotate(25deg);
     position: absolute;
     right: 20%;
+    top: 30%;
 
 }
 #features
